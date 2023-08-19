@@ -91,14 +91,14 @@ print("Good bye!")
 ## Continue
 ```
 ### First Example
-```
+ ```sh
 for letter in 'Python':   
     if letter == 'h':
         continue
     print('Current Letter :', letter)
 ```
 ### Second Example
-```
+ ```sh
 var = 10  
 while var > 0:
     var = var -1
