@@ -1,11 +1,11 @@
 ## Create Input String and Print
-```
+ ```sh
 ch=input("ente a char : ")
 print(ch)
 ```
 
 ## String Validation in Python
-```
+ ```sh
 name = input( "please enter the name")
 print(name)
 name1 = 'you got a nice name' if name == 'kaju' or name == 'khaja mohiddin' or name == 'kaza' else 'you have cool name'
@@ -13,7 +13,7 @@ print(name1)
 ```
 
 ## Creating if and else if statement in Python
-```
+ ```sh
 var = 100
 if var == 200:
     print("1 - Got a true expression value")
@@ -31,7 +31,7 @@ print("Good bye!")
 ```
 
 ## Nested If
-```
+ ```sh
 var = 100
 if var < 200:
     print("Expression value is less than 200")
@@ -49,7 +49,7 @@ print("Good bye!")
 ```
 
 ## While loop using if Condition
-```
+ ```sh
 var = 1
 num=1;
 while num: # This constructs an infinite loop
@@ -63,7 +63,7 @@ print("Good bye!")
 ```
 
 ## Nested While
-```
+ ```sh
 i = 2
 while(i < 100):
     j = 2
@@ -78,7 +78,7 @@ print("Good bye!")
 ```
 
 ## For loop in Python 
-```
+ ```sh
 for letter in 'Python': # First Example
     print('Current Letter :', letter)
 fruits = ['banana', 'apple', 'mango']
