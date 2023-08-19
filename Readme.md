@@ -91,12 +91,14 @@ print("Good bye!")
 ## Continue
 ```
 ### First Example
+```
 for letter in 'Python':   
     if letter == 'h':
         continue
     print('Current Letter :', letter)
-
+```
 ### Second Example
+```
 var = 10  
 while var > 0:
     var = var -1
@@ -104,7 +106,7 @@ while var > 0:
         continue
     print('Current variable value :', var)
 print("Good bye!")
-
+```
 ```
 
 
