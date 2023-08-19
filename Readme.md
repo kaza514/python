@@ -111,7 +111,7 @@ print("Good bye!")
 
 
 ## Python Operators
-```
+ ```sh
 import math
 def operation_result(op,var1,var2):
     if op==1:
