@@ -1,4 +1,4 @@
-## Create Input Python Variable and Print
+## Create Input String and Print
 ```
 ch=input("ente a char : ")
 print(ch)
