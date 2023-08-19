@@ -89,7 +89,7 @@ print("Good bye!")
 
 
 ## Continue
-```
+
 ### First Example
  ```sh
 for letter in 'Python':   
@@ -107,7 +107,7 @@ while var > 0:
     print('Current variable value :', var)
 print("Good bye!")
 ```
-```
+
 
 
 ## Python Operators
