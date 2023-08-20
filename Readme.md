@@ -178,3 +178,22 @@
      
   ```   
 
+
+
+
+## Function and lamdba function
+```sh
+
+sum = lambda arg1, arg2: arg1 + arg2;
+
+def sum1(arg3,arg4):
+    return arg3+arg4
+ 
+
+# Now you can call sum as a function
+print("Value of total : ", sum( 10, 20 ))
+print("Value of total : ", sum( 20, 20 ))
+
+print("value of total is : ",sum1(45,45)) 
+
+```
