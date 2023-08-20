@@ -182,7 +182,8 @@
 
 
 ## Function and lamdba function
-```sh
+
+  ```sh
 
 sum = lambda arg1, arg2: arg1 + arg2;
 
@@ -196,4 +197,4 @@ print("Value of total : ", sum( 20, 20 ))
 
 print("value of total is : ",sum1(45,45)) 
 
-```
+  ```
