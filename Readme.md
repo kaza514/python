@@ -13,6 +13,30 @@
  print(name1)
  ```
 
+##  Diff Between Local and Global Variable in Python
+  ```sh
+total = 25; # This is global variable.
+# Function definition is here
+def sum( arg1, arg2 ):
+    # Add both the parameters and return them."
+    total = arg1 + arg2; # Here total is local variable.
+    print("Inside the function local total : ", total)
+    return total;
+# Now you can call sum function
+sum( 10, 20 );
+print("Outside the function global total : ", total)
+def func():
+    global x;
+    print(" local value is",x)
+    x=2
+    print("changed local varialble",x)
+x=50
+func()
+print(" the value of x still is ",x)
+ ```
+
+
+
 ## Creating if and else if statement in Python
   ```sh
  var = 100
