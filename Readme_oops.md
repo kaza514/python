@@ -1,6 +1,6 @@
 # Python OOPS
 
-## Class object in another object
+## Class object in another class
   ```sh
 
 class Driver:
