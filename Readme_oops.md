@@ -21,4 +21,7 @@ class Car:
     def getDriverDetails(self, d):
         d.test()
 
+d = Driver("Alex")
+d.test()
+
   ```
